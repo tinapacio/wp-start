@@ -1,0 +1,11 @@
+body {
+  background-color: red; }
+
+* {
+  background-color: yellow; }
+  * p {
+    color: pink; }
+  * a {
+    background-color: pink; }
+
+/*# sourceMappingURL=style.css.map */
